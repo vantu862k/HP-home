@@ -1,0 +1,12 @@
+{
+  "siteName": "HP Home",
+  "logo": "https://scontent.fhph2-1.fna.fbcdn.net/v/t39.30808-6/560821781_774315675599212_9212118556174944050_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=GS65C2fPc4UQ7kNvwHw95OP&_nc_oc=AdkEkSOAusSzdpbxP7CWX9uftTrFIE-HXa-YDzbJTz-6Y1m-YyyGRn5by47fw4zh_GzjeOW91uFrDPtHRXEmm5ug&_nc_zt=23&_nc_ht=scontent.fhph2-1.fna&_nc_gid=Dm8dJ3csqWa17x2mpkFpmg&oh=00_AfjdbeI2CtSHGRjZWNxUcz9EmytsqlgrnAxwWP_9YYAiEg&oe=6914C5A4",
+  "hero": {
+    "image": "https://bimconcept.com.vn/wp-content/uploads/2025/08/mau-xam-dam-tao-khong-gian-phong-ngu-tinh-lang-thu-gian.jpg"
+  },
+  "imagesBase": "https://cdn.example.com/listings",
+  "contact": {
+    "phone": "0923122345",
+    "facebook": "facebook":"https://www.facebook.com/pham.xuan.uc.254099"
+  }
+}
